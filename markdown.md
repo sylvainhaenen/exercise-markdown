@@ -22,8 +22,15 @@
 [Liens vers mon README](README.md)
 ## Section Images
 #### Image statique
-![GitHub Logo](Images/WPetit.jpg)
-Format: ![Alt Text](url)
+![Cochon](Images/WPetit.jpg)
+#### Image animée
+![Image soupir](Images/giphy.gif)
+## Section "une peu de code
+
+
+
+
+
 
 
 
